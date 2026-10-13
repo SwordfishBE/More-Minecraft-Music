@@ -1,0 +1,1564 @@
+{
+  "music.creative": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/miscible",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/stolen_grid",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/earth",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/lugn",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/alpha",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mosaic",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/sunrise_on_the_mesa_2",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/tundra",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/earth/earth",
+        "stream": true
+      }
+    ]
+  },
+  "music.dragon": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/minecraft_end_remix",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/sweden_end_remix",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/misc/wither_storm_theme",
+        "stream": true,
+        "volume": 0.4
+      }
+    ]
+  },
+  "music.end": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/only_the_beginning",
+        "stream": true,
+        "volume": 0.8,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/vacuum_decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/untitled_end",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/minecraft_end_remix",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/end/sweden_end_remix",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/stronghold/if_we_could_reverse_time",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/stronghold/last_stronghold",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/stronghold/voide",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/stronghold/worn_away",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/misc/threshold",
+        "stream": true,
+        "volume": 0.4
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/maw",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/excuse",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/key",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/all_enders_eve",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/top",
+        "stream": true
+      }
+    ]
+  },
+  "music.game": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/alpha",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mosaic",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/sunrise_on_the_mesa_2",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/tundra",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/sky/chain_of_planets",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/sky/reach",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/sky/return",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/mansion/farlands",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/mansion/uncover_unknown",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/trial_chambers/bat",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/trial_chambers/lochan",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/trial_chambers/waxed_copper",
+        "stream": true
+      }
+    ]
+  },
+  "music.menu": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/menu/halland",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/menu/faith",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/menu/untitled_menu",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/stolen_grid",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/earth/earth",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/earth/sprouting",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/door",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/spoopy",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/chills",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/chris",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.basalt_deltas": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/bubbles",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/jellyfish",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/beneath",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/prophet",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/psilopsychotic",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/wasteland",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/fortress/basalt",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/trapdoor",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.crimson_forest": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/bubbles",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/jellyfish",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/beneath",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/prophet",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/psilopsychotic",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/wasteland",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/fortress/basalt",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/undead_voxel",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.nether_wastes": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/bubbles",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/jellyfish",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/beneath",
+        "stream": true,
+        "volume": 0.8,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/prophet",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/psilopsychotic",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/wasteland",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/fortress/basalt",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/brunn",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.soul_sand_valley": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/bubbles",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/jellyfish",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/wasteland",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/beneath",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/prophet",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/psilopsychotic",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/fortress/basalt",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/ghastly_spirits",
+        "stream": true
+      }
+    ]
+  },
+  "music.nether.warped_forest": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/prophet",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/psilopsychotic",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/beneath",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/bubbles",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/jellyfish",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/wasteland",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/fortress/basalt",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/prophet",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/humus_sifting",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/graveyard",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.badlands": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/sunrise_on_the_mesa_2",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/burning_gecko",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.bamboo_jungle": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/alpha",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mosaic",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/sunrise_on_the_mesa_2",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/tundra",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+  "music.overworld.cherry_grove": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true,
+        "weight": 2
+      }
+    ]
+  },
+  "music.overworld.deep_dark": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/abyss",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/ancient_city/abandoned_halls",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/ancient_city/echoes",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/greenpixel/depths",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/camp_cartography",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/mice_on_venus",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/graveyard",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/excuse",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/key",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/dead_mice",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/ghastly_spirits",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.desert": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 3
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/equinoxe",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.dripstone_caves": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/shelter",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/wisdom",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/abyss",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/cavern_beyond",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/caves",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/empty_rooms",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/extract_one",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/honor",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/pale_bliss",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/stalactite",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/greenpixel/depths",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/flake",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.flower_forest": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.forest": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/garden",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/equinoxe",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.frozen_peaks": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/tundra",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/secret",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/kyoto",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.grove": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/secret",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/kyoto",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jagged_peaks": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true,
+        "weight": 2
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/secret",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/kyoto",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.jungle": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/lugn",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+  "music.overworld.lush_caves": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/extract_one",
+        "stream": true,
+        "volume": 0.8,
+        "weight": 3
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/creative/lugn",
+        "stream": true,
+        "volume": 0.6
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/abyss",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/cavern_beyond",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/caves",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/empty_rooms",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/honor",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/pale_bliss",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/shelter",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/stalactite",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/wisdom",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/greenpixel/depths",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.meadow": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.old_growth_taiga": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mosaic",
+        "stream": true,
+        "weight": 3
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.snowy_slopes": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/secret",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/kyoto",
+        "stream": true
+      }
+    ]
+  },
+  "music.overworld.sparse_jungle": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/alpha",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mosaic",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/sunrise_on_the_mesa_2",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/tundra",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+  "music.overworld.stony_peaks": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+  "music.overworld.sulfur_caves": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/abyss",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/cavern_beyond",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/caves",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/empty_rooms",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/extract_one",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/honor",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/pale_bliss",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/shelter",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/stalactite",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/wisdom",
+        "stream": true,
+        "volume": 0.7
+      }
+    ]
+  },
+  "music.overworld.swamp": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/814",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/albeit",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/alpha",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/black_desert_of_endless_stars",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/burning_konkrete",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/cliff_hanger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/decay",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/fall",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/hunger",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/kall",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/legacy",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mosaic",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/mt_reed",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/ravine",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/rose_field",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/shrub",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/squid",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/stasis",
+        "stream": true,
+        "volume": 0.5
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/sunrise_on_the_mesa_2",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/tundra",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/untitled_overworld_2",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:more_music/moremusic/firch/garden",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/flake",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/equinoxe",
+        "stream": true
+      }
+    ]
+  },
+  "music.under_water": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/under_water/strand_atoll",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/monument/anima",
+        "stream": true,
+        "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/monument/aqua",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/monument/king_lionfish",
+        "stream": true,
+        "volume": 0.8
+      },
+      {
+        "name": "moreminecraftmusic:more_music/minecraft/music/halloween/norway",
+        "stream": true
+      }
+    ]
+  }
+}

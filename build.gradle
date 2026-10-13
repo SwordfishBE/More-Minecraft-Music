@@ -1,0 +1,27 @@
+plugins {
+    id 'net.fabricmc.fabric-loom' version '1.17-SNAPSHOT'
+}
+
+group = 'net.moreminecraftmusic'
+version = project.mod_version
+base { archivesName = 'more-minecraft-music' }
+java {
+    toolchain.languageVersion = JavaLanguageVersion.of(25)
+    withSourcesJar()
+}
+repositories { mavenCentral() }
+dependencies {
+    minecraft "com.mojang:minecraft:${minecraft_version}"
+    implementation "net.fabricmc:fabric-loader:${fabric_loader}"
+}
+processResources {
+    inputs.property 'version', project.version
+    filesMatching('fabric.mod.json') { expand version: project.version }
+}
+tasks.named('jar') {
+    from('LICENSE', 'CREDITS.md', 'README.md')
+    from('credits') { into 'credits' }
+}
+tasks.named('sourcesJar') {
+    exclude 'assets/**'
+}

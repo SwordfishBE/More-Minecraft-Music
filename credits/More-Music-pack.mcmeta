@@ -1,0 +1,10 @@
+{
+   "pack": {
+      "pack_format": 18,
+      "supported_formats": {
+		"min_inclusive": 18,
+		"max_inclusive": 99999
+		},
+      "description": "From spinoffs/Greenpixel/DLC\n& Firch; Logo: Amaro_Lunático"
+   }
+}

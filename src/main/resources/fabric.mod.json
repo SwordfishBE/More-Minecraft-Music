@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "moreminecraftmusic",
+  "version": "${version}",
+  "name": "More Minecraft Music",
+  "description": "More background music from Music And Melody and More Music, played through Minecraft's normal music player.",
+  "authors": ["SwordfishBE"],
+  "license": "LicenseRef-More-Minecraft-Music",
+  "icon": "assets/moreminecraftmusic/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["net.moreminecraftmusic.MoreMinecraftMusic"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": ">=26.3 <26.4",
+    "java": ">=25"
+  },
+  "breaks": {
+    "music_and_melody": "*",
+    "music_and_melody_background": "*"
+  }
+}
