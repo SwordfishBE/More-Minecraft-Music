@@ -10,7 +10,7 @@ The original soundtrack artist/title credits are preserved in the track translat
 
 ## More Music
 
-Music and original sound selections imported from the user-supplied **More Music.zip** resource pack. The supplied archive does not identify the pack's compiler by name; no compiler credit has been guessed.
+Music and original sound selections imported from  **More Music.zip** resource pack. The archive does not identify the pack's compiler by name; no compiler credit has been guessed.
 
 Original pack description: "From spinoffs/Greenpixel/DLC & Firch; Logo: Amaro_Lunático". The original metadata and track credits are preserved in `credits/More-Music-pack.mcmeta` and `credits/More-Music-track-credits.json`. Its old logo is credited here for provenance; the active mod icon is the new image supplied by SwordfishBE.
 
