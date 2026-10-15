@@ -350,6 +350,11 @@
       {
         "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/structure/trial_chambers/waxed_copper",
         "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/byte_array",
+        "stream": true,
+        "weight": 2
       }
     ]
   },
@@ -443,6 +448,10 @@
       {
         "name": "moreminecraftmusic:more_music/minecraft/music/halloween/trapdoor",
         "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/pahoehoe",
+        "stream": true
       }
     ]
   },
@@ -482,6 +491,10 @@
       },
       {
         "name": "moreminecraftmusic:more_music/minecraft/music/halloween/undead_voxel",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/pahoehoe",
         "stream": true
       }
     ]
@@ -528,6 +541,10 @@
       {
         "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
         "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/pahoehoe",
+        "stream": true
       }
     ]
   },
@@ -572,6 +589,10 @@
       },
       {
         "name": "moreminecraftmusic:more_music/minecraft/music/halloween/ghastly_spirits",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/pahoehoe",
         "stream": true
       }
     ]
@@ -624,6 +645,10 @@
       },
       {
         "name": "moreminecraftmusic:more_music/moremusic/dungeons/guldrum",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/nether/pahoehoe",
         "stream": true
       }
     ]
@@ -897,6 +922,10 @@
       {
         "name": "moreminecraftmusic:more_music/minecraft/music/flake",
         "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/whispering_shards",
+        "stream": true
       }
     ]
   },
@@ -1047,6 +1076,10 @@
       {
         "name": "moreminecraftmusic:more_music/minecraft/music/kyoto",
         "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/overworld/byte_array",
+        "stream": true
       }
     ]
   },
@@ -1167,6 +1200,10 @@
       },
       {
         "name": "moreminecraftmusic:more_music/moremusic/greenpixel/depths",
+        "stream": true
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/whispering_shards",
         "stream": true
       }
     ]
@@ -1419,6 +1456,10 @@
         "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/wisdom",
         "stream": true,
         "volume": 0.7
+      },
+      {
+        "name": "moreminecraftmusic:music_and_melody/music_and_melody/music/caves/whispering_shards",
+        "stream": true
       }
     ]
   },
